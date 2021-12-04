@@ -24,10 +24,10 @@
     
 -  ** Level 11:** Chemical Storage (Your Omnitool can store 5 doses of any liquid chemicals or vapors for injection. A dose is equivalent to whatever amount is required to achieve the desired effect, IE a healing potion, or a poison. These doses can be poured into vials for later use if they are collected, or they can be used through the Direct Injection Feature. This feature also allows the symbiote to glean poison off of a poisoned weapon if it is unused.)
     
--   Level 12: Flesh Weaver (At the end of each of your turns the symbiote may take an action to repair your body, spinning new flesh from itself. If it uses this feature you lose one charge, and gain 20 temp hp. This temp hp cannot exceed your hitpoint maximum, and healing removes an amount of this hp equal to the amount healed. You may use this feature on yourself or an ally within touch range and it does not consume an action or bonus action as the symbiote acts independently.)
+-   **Level 12:** Flesh Weaver (At the end of each of your turns the symbiote may take an action to repair your body, spinning new flesh from itself. If it uses this feature you lose one charge, and gain 20 temp hp. This temp hp cannot exceed your hitpoint maximum, and healing removes an amount of this hp equal to the amount healed. You may use this feature on yourself or an ally within touch range and it does not consume an action or bonus action as the symbiote acts independently.)
     
--   Level 13: +3 tool
+-   **Level 13:** +3 tool
     
--   Level 14: Improved symbiote (Your omni tool can act more like a regular familiar. It can now take any of the normal actions a familiar can take, and can stretch 30 feet away from you. Instead of delivering a spell, it can perform an injection, though it will require your action as well to do this as usual for a familiar.)
+-   **Level 14:** Improved symbiote (Your omni tool can act more like a regular familiar. It can now take any of the normal actions a familiar can take, and can stretch 30 feet away from you. Instead of delivering a spell, it can perform an injection, though it will require your action as well to do this as usual for a familiar.)
     
--   Level 15: Enhanced charges (Your symbiote now has 15 charges)
+-   **Level 15:** Enhanced charges (Your symbiote now has 15 charges)
