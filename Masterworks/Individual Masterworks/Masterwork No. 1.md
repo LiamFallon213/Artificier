@@ -23,7 +23,7 @@
     
 -   **Level 10:** Damage Cell improvement (You gain an additional 2 Damage Dice bringing your revolver up to 6d6 instead of 4d6)
     
--   **Level 11:** Arcane Railgun (As an action, you may transform your weapon into a railgun, you must then take another turn to set it upload it, you must take a turn to  aim it and then a turn to fire it. It has +6 to hit, a range of 600/2400 feet. Anything within a 10n foot cone oposite of impact takes )
+-   **Level 11:** Arcane Railgun (As an action, you may transform your weapon into a railgun, you must then take another turn to set it upload it, you must take a turn to  aim it and then a turn to fire it. It has +6 to hit, a range of 600/2400 feet. Instead of using magic as ammunition it requires shells to fire. If the target is within 50 feet you gain disadvantage against moving targets. Anything hit by the cannon takes Anything within a 10n foot cone oposite of impact takes )
     
 -   **Level 12:** +3 Weapon
     
