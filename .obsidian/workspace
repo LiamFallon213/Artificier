@@ -7,17 +7,25 @@
         "id": "36df5d2658e03de3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
+            "mode": "source"
+          }
+        },
+        "group": "9754aebf30000b13"
       },
       {
-        "id": "56fc1014b7fb379e",
+        "id": "ee3dcb8e7abb5508",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9754aebf30000b13"
       }
     ],
     "direction": "vertical"
@@ -73,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56fc1014b7fb379e",
+  "active": "ee3dcb8e7abb5508",
   "lastOpenFiles": [
-    "Masterworks.md",
-    "Main.md"
+    "Masterworks/Individual Masterworks/Masterwork No. 1.md",
+    "Untitled.md",
+    "Main.md",
+    "Masterworks.md"
   ]
 }
