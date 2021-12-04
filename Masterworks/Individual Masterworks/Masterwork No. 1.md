@@ -23,7 +23,7 @@
     
 -   **Level 10:** Damage Cell improvement (You gain an additional 2 Damage Dice bringing your revolver up to 6d6 instead of 4d6)
     
--   **Level 11:** Arcane Railgun (As an action, you may transform your weapon into a railgun, When you fire this weapon, expend all charges from your Mana Rifle incurring the standard penalty, and then deal 4* your base damage dice. When you fire this weapon, make a DC20 Strength check, on a fail you are knocked prone. If you collide with an object or person, you do not fall prone but take 4d6 bludgeoning damage. Once you use this feature, you are unable to use your weapon for 2 turns, You may make a DC 18 Tinker’s tools check as an action to end this effect early. When fired in this way, you permanently lose 1 damage dice until your next long rest due to structural damage to your weapon.)
+-   **Level 11:** Arcane Railgun (As an action, you may transform your weapon into a railgun, you must then take another turn to set it up, When you fire this weapon, expend all charges from your Mana Rifle incurring the standard penalty, )
     
 -   **Level 12:** +3 Weapon
     
