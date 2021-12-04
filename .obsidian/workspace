@@ -9,23 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
+            "file": "Main.md",
             "mode": "source"
           }
-        },
-        "group": "61d2c5fd965cb4d7"
+        }
       },
       {
-        "id": "43d6060e5a3b9def",
+        "id": "e3972a1ff46c2786",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
-            "mode": "preview"
-          }
-        },
-        "group": "61d2c5fd965cb4d7"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,14 +96,7 @@
   },
   "active": "36df5d2658e03de3",
   "lastOpenFiles": [
-    "Masterworks/Individual Masterworks/Masterwork No. 1.md",
-    "Masterworks/Individual Masterworks/Masterwork No. 5.md",
-    "Masterworks/Individual Masterworks/Masterwork No. 4.md",
-    "Masterworks/Individual Masterworks/Masterwork No. 3.md",
-    "Masterworks/Individual Masterworks/Masterwork No. 2.md",
-    "Masterworks/Masterworks List Formatted.md",
-    "Masterworks/Individual Masterworks/Masterworks List.md",
     "Main.md",
-    "Masterworks/Trial Masterworks.md"
+    "Masterworks.md"
   ]
 }
