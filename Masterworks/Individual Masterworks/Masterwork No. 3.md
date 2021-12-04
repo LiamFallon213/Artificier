@@ -16,7 +16,7 @@
     
 -   **Level 7:** Rapid Charging (You may recharge your armor as a bonus action)
     
--   **Level 8:** Duplicate Self (Your armor can become an automaton in service to you. )
+-   **Level 8:** Duplicate Self (Your armor can become an automaton in service to you. As an action you can command it to seperate from yourself and take on a physical form. It has the appearance of a sillouette constructed of flowing gallium, and uses the statistics of )
     
 -   **Level 9:** Steel Angel (You may spend 5 charges over the course of a minuite to cause the symbiote to transform into a pair of large metallic wings. You gain a flying speed of 60 feet for the next 10 minutes.)
     
