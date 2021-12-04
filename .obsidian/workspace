@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Masterworks/Individual Masterworks/Masterwork No. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "36df5d2658e03de3",
   "lastOpenFiles": [
-    "Main.md",
+    "Masterworks/Individual Masterworks/Masterwork No. 1.md",
     "Untitled.md",
+    "Main.md",
     "Masterworks.md"
   ]
 }
