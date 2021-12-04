@@ -13,10 +13,10 @@
             "mode": "source"
           }
         },
-        "group": "61d2c5fd965cb4d7"
+        "group": "9754aebf30000b13"
       },
       {
-        "id": "43d6060e5a3b9def",
+        "id": "ee3dcb8e7abb5508",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -25,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "61d2c5fd965cb4d7"
+        "group": "9754aebf30000b13"
       }
     ],
     "direction": "vertical"
@@ -104,13 +104,11 @@
     "Masterworks/Individual Masterworks/Masterwork No. 3.md",
     "Masterworks/Individual Masterworks/Masterwork No. 2.md",
     "conflict-files-obsidian-git.md",
-    "Masterworks/Individual Masterworks/Masterwork No. 2.md",
     "Masterworks/Individual Masterworks/Masterwork No. 1.md",
     "Masterworks/Individual Masterworks/Masterwork No. 5.md",
     "Masterworks/Individual Masterworks/Masterwork No. 4.md",
-    "Masterworks/Masterworks List Formatted.md",
-    "Masterworks/Individual Masterworks/Masterworks List.md",
+    "Untitled.md",
     "Main.md",
-    "Masterworks/Trial Masterworks.md"
+    "Masterworks.md"
   ]
 }
