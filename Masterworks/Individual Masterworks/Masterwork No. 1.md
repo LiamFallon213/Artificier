@@ -31,4 +31,4 @@
     
 -   **Level 14:** Spell Shells(You may prepare a spell shell, similar to a spell storing ring. If someone casts a spell of 5th level or lower into it, you may fire it in your arcane railgun destroying the shell, and causing the effects of the shell to apply as if cast where you shoot the railgun)
     
--   **Level 15:** concussive Blast (You may change the way your Arcane Railgun fires, causing a save against your makerscore inside a 30 foot sphere centered around the impact. To avoid the Damage dealt)
+-   **Level 15:** concussive Blast (You may change the way your Arcane Railgun fires, causing a save against your makerscore in a 120 foot line. To avoid the Damage dealt)
