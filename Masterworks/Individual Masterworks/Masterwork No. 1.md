@@ -17,7 +17,7 @@
     
 -  ** Level 7**  +2 Weapon
     
--   **Level 8:** Spell Disruption, (When an opponent casts a spell, you may fire your Mana Rifle as a Reaction. Doing this causes a disruptive burst of magic to be fired at your target, on a hit the spell is interrupted and fails. You may use this feature in revolver form as well, and it incurs the price of firing your mana rifle.)
+-   **Level 8:** Spell Disruption, ()
     
 -   **Level 9:** Mana Beam (You may spend one turn charging your mana rifle to transform it from an attack roll to a save against your craftsmanship score. Every creature in a 60 foot triangle must make a dex save as you pan your rifle across the field of battle releasing a devastating beam.)
     
