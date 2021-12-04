@@ -15,15 +15,15 @@
     
 -  ** Level 6:** Mana Rifle, (You may transform this weapon into a Mana Rifle as a bonus action, you may not use it to attack while doing so.) In this state, your rifle has 1 charge for each of your damage dice. You may expend a charge to deal a number of damage equal to 2 * your standard damage dice. When you do this, you lose one damage dice from your revolver’s attacks until this weapon is fully recharged. This has no impact on the rifle, but when all charges have been expended you are unable to fire in any state, until this weapon regains it’s charges. You may recharge it using your charge refill, and also over a long rest You may fire the mana rifle a number of times equal to your proficiency bonus before recharging it) 
     
--  ** Level 7**  +2 Weapon
+-  ** Level 7**  
     
 -   **Level 8:** Spell Disruption, ()
     
--   **Level 9:** Mana Beam (You may spend one turn charging your mana rifle to transform it from an attack roll to a save against your craftsmanship score. Every creature in a 30 foot triangle must make a dex save as you pan your rifle across the field of battle releasing a devastating beam.)
+-   **Level 9:** +2 Weapon
     
 -   **Level 10:** Damage Cell improvement (You gain an additional 2 Damage Dice bringing your revolver up to 6d6 instead of 4d6)
     
--   **Level 11:** Arcane Railgun (As an action, you may transform your weapon into a railgun, When you fire this weapon, expend all charges from your Mana Rifle incurring the standard penalty, and then deal 4* your damage dice’s damage. When you fire this weapon, make a DC20 Strength check, on a fail you move 10 feet backwards and are knocked prone. If you collide with an object or person, you do not fall prone but take 4d6 bludgeoning damage. Once you use this feature, you are unable to use your weapon for 2 turns, You may make a DC 18 Tinker’s tools check as an action to end this effect early. When fired in this way, you permanently lose 1 damage dice until your next long rest due to structural damage to your weapon.)
+-   **Level 11:** Arcane Railgun (As an action, you may transform your weapon into a railgun, When you fire this weapon, expend all charges from your Mana Rifle incurring the standard penalty, and then deal 4* your base damage dice. When you fire this weapon, make a DC20 Strength check, on a fail you are knocked prone. If you collide with an object or person, you do not fall prone but take 4d6 bludgeoning damage. Once you use this feature, you are unable to use your weapon for 2 turns, You may make a DC 18 Tinker’s tools check as an action to end this effect early. When fired in this way, you permanently lose 1 damage dice until your next long rest due to structural damage to your weapon.)
     
 -   **Level 12:** +3 Weapon
     
