@@ -19,7 +19,7 @@
     
 -   **Level 8:** Spell Disruption, ()
     
--   **Level 9:** Mana Beam (You may spend one turn charging your mana rifle to transform it from an attack roll to a save against your craftsmanship score. Every creature in a 60 foot triangle must make a dex save as you pan your rifle across the field of battle releasing a devastating beam.)
+-   **Level 9:** Mana Beam (You may spend one turn charging your mana rifle to transform it from an attack roll to a save against your craftsmanship score. Every creature in a 30 foot triangle must make a dex save as you pan your rifle across the field of battle releasing a devastating beam.)
     
 -   **Level 10:** Damage Cell improvement (You gain an additional 2 Damage Dice bringing your revolver up to 6d6 instead of 4d6)
     
