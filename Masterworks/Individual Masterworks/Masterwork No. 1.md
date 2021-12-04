@@ -1,4 +1,4 @@
-# Masterwork #1. Restructive Firearm (Wand, Requires Attunement)
+## Masterwork #1. Restructive Firearm (Wand, Requires Attunement)
 
 
 -   Planned Tweak Damage Type

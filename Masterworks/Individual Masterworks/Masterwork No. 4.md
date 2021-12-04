@@ -1,0 +1,25 @@
+## Masterwork #4 . Portal Gun
+
+-   Planned Tweak (no Idea tbh)
+   
+-   Level 5: Gun based portable hole. (Normal portable hole, but you can point to apply it to any surface within 10 feet.)
+    
+-   Level 6: Multiplied Storage ((Attunement)You may use this portal gun to open a number of portable holes equal to twice your intelligence modifier. These holes may not be placed inside each other, and can only be accessed by the person creating them. You may not have negative holes. Anyone may open a hole, but these holes are the only ones you are able to reopen later. If the hole is opened from the inside instead of appearing where the hole currently is it appears where the hole last was.) 
+    
+-   Level 7: Dimensional Bandit (If you point this tool at an opened portable hole, bag of holding or otherwise extradimensional space, you may instead of having one of your holes, keep a record of it’s interdimensional coordinates, you may then at any time open a 1 foot diameter circular opening into the container. You may move this hole around inside the container in order to reach everywhere inside.)
+    
+-   Level 8: Blip (You may point the Portal gun at a point within 250 feet, you and one creature you may touch teleport exiting through a portable hole that opens in that location. Cost 1 charge. Your portal gun has 3 charges)
+    
+-   Level 9: Arcane Beacons (Given one day’s work, you can construct an arcane beacon, at the price of 2 charges, you may teleport to any arcane beacon you have created. You may have a number of arcane beacons equal to your intelligence modifier+your proficiency bonus. When you create a new beacon, if that beacon is higher than that number, the oldest beacon crumbles to dust
+    
+-   Level 10: Magic Circle Jacking (If you expend 1 charge, you can temporarily hijack a magic circle, activating it and teleporting to another teleportation circle, who’s sigil you can input.)
+    
+-   Level 11: Blip Beacon (You may craft a number of blip beacons equal to your proficiency bonus. You always know the locations of these beacons as long as you are within 1000 feet of them. They may be any shape and disguised as anything as long as it is at least one inch in diameter. You may use blip to teleport to any of these beacons as long as you are within 500 feet even if you do not have a direct line of sight. 
+    
+-   Level 12: Portal (You may open two openings to a bag of holding. These openings stay open for one round, and allow you to pass through both without consuming additional movement speed, the portals must be within 500 feet of each other, and must be within 500 feet of you and either line of sight, centered on a blip beacon, or centered on an arcane beacon.
+    
+-   Level 13: Teleportation (You may use your Arcane Beacons to determine the location of a geographical area on a plane in which you have at least three beacons. You must then know the latitude and longitude of the location. With this information and a complicated equation, you may spend 3 charges to open up a gate to this location as an action. The gate allows medium or smaller creatures to pass through and is open for one round. The DM determines the vertical altitude of the area you come out of, but it is always on the nearest flat wall, and adjacent to a floor of some kind. It is generally as close to the surface of the planet as possible. You always get the same vertical location given the coordinates, though it can change if that location is destroyed. To allow for finding the best output surface this ability gives some leeway on horizontal directions at the DM’s discretion. To perform the equation, make a roll against 20-your intelligence modifier. On a success you teleport correctly, on a failure, you are off target by a margin of 10^number failed by miles. Rolling the number exactly counts as a failure and the offset is zero giving a 1 mile change in direction. The exact location is determined by the DM. On a crit fail roll a d4, on a 1 you are teleported to a random plane, on any other number the portal simply fizzles. If you are off plane, unless you have at least 3 arcane beacons you cannot travel on that plane, however you may return to any plane you do have beacons on. You may also choose to travel to a plane using an attuned rod similarly to planeshift though you have no control over your destination.
+    
+-   Level 14: Extradimensional Barrier (By expending 3 charges, you may ward a 30 foot cube against dimensional travel for 1d100 days. If this affects a teleportation circle, the circle cannot be used by anyone. You may expend 3 more charges to lift this Barrier, and you may make a number of barriers equal to your intelligence modifier.)
+    
+-   Level 15: Constructed Plane (By expending 3 charges, and one full recharge, you may create your own demiplane. From then on, you may use your teleportation feature to go back and forth from this demiplane identically to the demiplane spell.)
