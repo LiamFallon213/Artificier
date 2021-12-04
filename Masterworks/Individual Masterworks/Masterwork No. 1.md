@@ -9,7 +9,7 @@
     
 -   **Level 3:** Hand Eye Coordination (You may use intelligence instead of strength or dex for this weapon)
     
--   **Level 4:** Smoking hands (When you store this revolver, it transforms into a ring on your finger, this ring is impossible to remove, and you have advantage on checks to pass it off as an ordinary ring.)
+-   **Level 4:** Smoking hands (When you store this revolver, it transforms into a ring on your finger, this ring is impossible to remove, It is indistinguishable from a normal ring.)
     
 -  ** Level 5:**  Damage cells ( This weapon uses d6 as magical damage dice instead of physical damage. At level 5 every hit deals 4d6 damage instead of 2d6)
     
