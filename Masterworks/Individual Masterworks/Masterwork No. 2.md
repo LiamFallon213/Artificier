@@ -18,7 +18,7 @@
     
 -  ** Level 8**  +2 tool
     
--  ** Level 9**  Deflective carapace (As a reaction to taking damage, you can cause your omni tool to spread out encasing the targeted area in silvery metallic armor. You may spend 2 charges to increase your AC by 5 until the end of your turn. 
+-  ** Level 9**  Deflective carapace (As a reaction to taking damage, you can cause your omni tool to spread out encasing the targeted area in silvery metallic armor. You may spend 2 charges to increase your AC by 3 until the end of your turn. 
     
 -  ** Level 10**  Charge absorption (You may recharge the symbiote’s charges as a bonus action.)
     
