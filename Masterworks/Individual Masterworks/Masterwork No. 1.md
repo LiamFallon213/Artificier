@@ -13,7 +13,7 @@
     
 -  ** Level 5:**  Damage cells ( This weapon uses d6 as magical damage dice instead of physical damage. At level 5 every hit deals 4d6 damage instead of 2d6)
     
--  ** Level 6:** Mana Rifle, (You may transform this weapon into a Mana Rifle as a bonus action, you may not use it to attack while doing so.) In this state, your rifle has 1 charge for each of your damage dice. You may expend a charge to deal a number of damage equal to 2 * your standard damage dice. When you do this, you lose one damage dice from your revolver’s attacks until this weapon is fully recharged. This has no impact on the rifle, but when all charges have been expended you are unable to fire in any state, until this weapon regains it’s charges. You may recharge it using your charge refill, and also over a long rest You may fire the mana rifle no more than 3 times before recharging it) 
+-  ** Level 6:** Mana Rifle, (You may transform this weapon into a Mana Rifle as a bonus action, you may not use it to attack while doing so.) In this state, your rifle has 1 charge for each of your damage dice. You may expend a charge to deal a number of damage equal to 2 * your standard damage dice. When you do this, you lose one damage dice from your revolver’s attacks until this weapon is fully recharged. This has no impact on the rifle, but when all charges have been expended you are unable to fire in any state, until this weapon regains it’s charges. You may recharge it using your charge refill, and also over a long rest You may fire the mana rifle a number of times equal to your proficiency bonus before recharging it) 
     
 -  ** Level 7**  +2 Weapon
     
