@@ -16,7 +16,7 @@
     
 -   **Level 7:** Rapid Charging (You may recharge your armor as a bonus action)
     
--   **Level 8:** Duplicate S
+-   **Level 8:** Duplicate Self (Your armor can become an automaton in service to you. )
     
 -   **Level 9:** Steel Angel (You may spend 5 charges over the course of a minuite to cause the symbiote to transform into a pair of large metallic wings. You gain a flying speed of 60 feet for the next 10 minutes.)
     
@@ -30,4 +30,4 @@
     
 -   **Level 14:** 
     
--   **Level 15:** Unconscious Movement (Should you die, go down, or lose consciousness, your symbiote may simply move around with you inside it. It fully encloses you transforming into a metallic humanoid, The symbiote retains its AC as well as any features of it or the Omnitool, but otherwise cannot use magic or magic items. It is immune to charmed,sleep,and effects that target humanoids or require a mind to function. The symbiote has hp equal to the number of charges left *10. It cannot verbally communicate. While awakened in this state the symbiote’s sole objective is protecting its owner and it will take any action to ensure the safety of its owner. Any damage the symbiote takes is also taken by the person inside of it, and if it drops to 0 hp, it dies, though it can be regrown over 1d4 weeks as long as any parts of it remain and it can be consistently fed metal. This state can also be activated by the owner voluntarily and instructed to perform simple tasks or to protect someone else in a simila
+-   **Level 15:** Unconscious Movement (Should you die, go down, or lose consciousness, your symbiote may simply move around with you inside it. It fully encloses you transforming into a metallic humanoid, The symbiote retains its AC as well as any features of it or the Omnitool, but otherwise cannot use magic or magic items. It is immune to charmed,sleep,and effects that target humanoids or require a mind to function. The symbiote has hp equal to the number of charges left *10. It cannot verbally communicate. While awakened in this state the symbiote’s sole objective is protecting its owner and it will take any action to ensure the safety of its owner. Any damage the symbiote takes is also taken by the person inside of it, and if it drops to 0 hp, it dies, though it can be regrown over 1d4 weeks as long as any parts of it remain and it can be consistently fed metal. This state can also be activated by the owner voluntarily and instructed to perform simple tasks or to protect someone else in a similar fashion.)
