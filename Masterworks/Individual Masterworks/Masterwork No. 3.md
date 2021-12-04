@@ -10,7 +10,7 @@
     
 -   **Level 4:** Stealth Armor (Regardless of the type of armor absorbed, it grants no penalty to stealth and you may rest normally, in other words you may treat the armor as if you are not wearing it. 
     
--   **Level 5:** Iron Web ((Attunement)You may use an action to attempt to grapple a target 30 feet away from you or closer by spraying them with your symbiote and roping them down with metallic tendrils. You make this grappling check with your intelligence modifier, and it occupies one of your hands and you can move no further than 30 linear feet from your target. Other than this, the grapple has no other effects on you. If the target breaks the grapple you lose one charge from your symbiote, if you release it on your own you do not lose any charges. You cannot use this ability if you have less than 3 charges remaining.(Armor has 10 charges))
+-   **Level 5:** Iron Web ((Attunement)You may use an action to attempt to grapple a target 30 feet away from you or closer by spraying them with your symbiote and roping them down with metallic tendrils. You make this grappling check with your intelligence modifier, and it occupies one of your hands and you can move no further than 30  feet from your target in a straight line. Other than this, the grapple has no other effects on you. If the target breaks the grapple you lose one charge from your symbiote, if you release it on your own you do not lose any charges. You cannot use this ability if you have less than 3 charges remaining.(Armor has 10 charges))
     
 -   **Level 6:** Symbiotic Strength (You may spend 1 charge to use your intelligence instead of strength for a strength check or saving throw)
     
