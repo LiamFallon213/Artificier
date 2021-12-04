@@ -12,20 +12,18 @@
             "file": "Masterworks.md",
             "mode": "source"
           }
-        },
-        "group": "61d2c5fd965cb4d7"
+        }
       },
       {
-        "id": "43d6060e5a3b9def",
+        "id": "e3972a1ff46c2786",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Masterworks.md",
-            "mode": "preview"
+            "mode": "source"
           }
-        },
-        "group": "61d2c5fd965cb4d7"
+        }
       }
     ],
     "direction": "vertical"
