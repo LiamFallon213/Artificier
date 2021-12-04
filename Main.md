@@ -1,1 +1,1 @@
-Ipsum Lorem aaaaGIT
+Ipsum Lorem aaaa
