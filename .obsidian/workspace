@@ -7,16 +7,11 @@
         "id": "36df5d2658e03de3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "56fc1014b7fb379e",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Main.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56fc1014b7fb379e",
+  "active": "36df5d2658e03de3",
   "lastOpenFiles": [
-    "Masterworks.md",
-    "Main.md"
+    "Main.md",
+    "Untitled.md",
+    "Masterworks.md"
   ]
 }
