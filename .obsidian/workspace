@@ -1,16 +1,14 @@
 {
   "main": {
-    "id": "db55dc8d7a2ba4d5",
+    "id": "c086a9ed48a452fe",
     "type": "split",
     "children": [
       {
-        "id": "6ba5080814f393f0",
+        "id": "36df5d2658e03de3",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "empty",
-          "state": {},
-          "pinned": true
+          "state": {}
         }
       }
     ],
@@ -84,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ba5080814f393f0",
+  "active": "36df5d2658e03de3",
   "lastOpenFiles": [
     "Main.md"
   ]
