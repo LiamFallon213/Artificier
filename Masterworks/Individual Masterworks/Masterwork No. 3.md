@@ -24,7 +24,7 @@
     
 -   **Level 11:** 
     
--   **Level 12:** Defensive shielding, as an action you may expend one charge to gain a +2 to AC for one hour you must absorb a shield to use this. 
+-   **Level 12:** Quantum Shielding, Your form becomes fuzzy as you expand your quantum probability cone. As an action you may expend one charge to gain a +2 to AC for one hour you must absorb a shield to use this. 
     
 -   **Level 13:** Additional Charges (You now have 15 charges)
     
