@@ -6,12 +6,14 @@
       {
         "id": "6ba5080814f393f0",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Main.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
