@@ -22,7 +22,7 @@
     
 -   **Level 10:** Antimagic injection (As a reaction to falling under a spell's effect, you may expend 3 charges to inject yourself with antimagic. You gain advantage on the spell saving throw.)
     
--   **Level 11:** 
+-   **Level 11:** Thermal Vision (As an action, you gain the effects of the see invisibility spell for one hour. At the price of one charge.)
     
 -   **Level 12:** Quantum Shielding, Your form becomes fuzzy as you expand your quantum probability cone. As an action you may expend one charge to gain a +2 to AC for one hour you must absorb a shield to use this. 
     
