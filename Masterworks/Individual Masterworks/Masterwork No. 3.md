@@ -14,7 +14,7 @@
     
 -   **Level 6:** Symbiotic Strength (You may spend 1 charge to use your intelligence instead of strength or dexterity for a strength or dexterity check)
     
--   **Level 7:** Rapid Charging (You may recharge your armor as a bonus action)
+-   **Level 7:** Night Vision goggles (As an action you can expend a charge to gain darkvision for an hour.)
     
 -   **Level 8:** Duplicate Self (Your armor can become an automaton in service to you. As an action you can command it to seperate from yourself and take on a physical form. It has the appearance of a sillouette constructed of flowing gallium, and uses the statistics of animated armor It uses the standard familliar rules and cant attack, but cannot be damaged either.)
     
@@ -22,7 +22,7 @@
     
 -   **Level 10:** Antimagic injection (As a reaction to falling under a spell's effect, you may expend 3 charges to inject yourself with antimagic. You gain advantage on the spell saving throw.)
     
--   **Level 11:** Night Vision goggles (As an action you can expend a charge to gain darkvision for an hour.)
+-   **Level 11:** 
     
 -   **Level 12:** Quantum Shielding, Your form becomes fuzzy as you expand your quantum probability cone. As an action you may expend one charge to gain a +2 to AC for one hour you must absorb a shield to use this. 
     
