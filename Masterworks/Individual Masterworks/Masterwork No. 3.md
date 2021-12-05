@@ -28,6 +28,6 @@
     
 -   **Level 13:** Additional Charges (You now have 15 charges)
     
--   **Level 14:** 
+-   **Level 14:** Quantum Leap (As an action or a reaction to an ally getting hit, you may swap places with a voluntary creature within 30 feet. This ability costs 2 charges.)
     
 -   **Level 15:** Unconscious Movement (Should you die, go down, or lose consciousness, your symbiote may simply move around with you inside it. It fully encloses you transforming into a metallic humanoid, The symbiote retains its AC as well as any features of it or the Omnitool, but otherwise cannot use magic or magic items. It is immune to charmed,sleep,and effects that target humanoids or require a mind to function. The symbiote has hp equal to the number of charges left *10. It cannot verbally communicate. While awakened in this state the symbiote’s sole objective is protecting its owner and it will take any action to ensure the safety of its owner. Any damage the symbiote takes is also taken by the person inside of it, and if it drops to 0 hp, it dies, though it can be regrown over 1d4 weeks as long as any parts of it remain and it can be consistently fed metal. This state can also be activated by the owner voluntarily and instructed to perform simple tasks or to protect someone else in a similar fashion.)
